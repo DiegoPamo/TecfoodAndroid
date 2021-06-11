@@ -1,0 +1,2 @@
+rootProject.name = "TecfoodAndroid"
+include ':app'
